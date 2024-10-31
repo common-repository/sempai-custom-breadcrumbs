@@ -1,0 +1,10 @@
+.breadcrumbs-field input, select {
+    height: 40px;
+}
+.mt-2 {
+    margin-top: 2px;
+}
+.remove-field {
+    border-color: red !important;
+    color: red !important;
+}
